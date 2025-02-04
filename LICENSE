@@ -1,0 +1,24 @@
+=============================================================================
+[eXperDB License]
+=============================================================================
+Copyright (c) 2016-2025, eXperDB
+All rights reserved.
+
+Please read carefully before installing this software.
+By installing this software, you have read, understand and agree to all of the following items.
+Please keep all of the above copyright notice and all of the following four terms on all copies.
+
+1. Install
+eXperDB(PostgreSQL and Packages) can be installed, configured and operated on its own.
+
+2. Restrictions
+In order to receive various technical support services such as installation, configuration, technical inquiry / training, problem response, performance improvement, maintenance service purchase must be preceded.
+We do not take any responsibility for technical support / training, problem solving, performance improvement, etc. for any problems that occur during installation, configuration and operation by users without purchasing Service Subscription.
+
+3. Disclaimer
+We can not guarantee that the quality of service will be complete if you have purchased maintenance services to build a system for your specific purpose that is outside the scope or purpose recommended by us.
+
+4. Limitation of Liability
+We will do our best to answer your inquiry, but we can not guarantee the time required to respond.
+When you have to leverage the knowledge of the open source community to troubleshoot problems, there is no guarantee that the answers you find here will be a definite solution.
+In no event will you be liable for any damages caused by you or any third party or entity, despite the advice that damages may arise.
